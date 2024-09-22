@@ -1,0 +1,20 @@
+.Card {
+    background-color: rgb(62, 121, 121);
+    color: white;
+    margin-bottom: 20px;
+    width: 400px;
+    padding: 20px;
+    height: 250px;
+}
+
+.Card-title {
+    color: black;
+}
+
+.Card-text {
+    color: aliceblue;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
