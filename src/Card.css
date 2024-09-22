@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .Card {
     background-color: rgb(62, 121, 121);
     color: white;
@@ -14,7 +18,3 @@
 .Card-text {
     color: aliceblue;
 }
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
